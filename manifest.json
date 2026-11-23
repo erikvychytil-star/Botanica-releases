@@ -1,0 +1,67 @@
+{
+  "schema": 1,
+  "updated": "2026-11-23",
+  "plugins": [
+    {
+      "id": "Topiary",
+      "kind": "EQ",
+      "blurb": "6 ekvalizérů: 24pásmový CANOPY, suppressor WEEDER, SSL, Pultec, API a Manley styl.",
+      "version": "0.2.0",
+      "notes": "Převedeno na Rootstock. Zvuk i parametry beze změny.",
+      "url": "plugins/Topiary-0.2.0.zip",
+      "sha256": "1c6012694fc584c2eba89b254e15981343aa5e7e50168b6b3026a214a5eda3d8",
+      "size": 1722442,
+      "image": "images/Topiary.png"
+    },
+    {
+      "id": "Glade",
+      "kind": "REVERB",
+      "blurb": "9 reverbů: plate, pružiny, hall, komora, room, shimmer, ambient s freeze, gated a konvoluce.",
+      "version": "0.1.0",
+      "notes": "První verze.",
+      "url": "plugins/Glade-0.1.0.zip",
+      "sha256": "c82f114d64c52b20322502f5e16b8431df0614bbf4c043da77e5b38ccbc6b5e5",
+      "size": 2248845,
+      "image": "images/Glade.png"
+    },
+    {
+      "id": "Runners",
+      "kind": "DELAY",
+      "blurb": "8 delayů: pásek, BBD, dub, digitál, multitap, reverse, pitch a granular.",
+      "version": "0.1.0",
+      "notes": "První verze.",
+      "url": "plugins/Runners-0.1.0.zip",
+      "sha256": "ed0f802cf3ad200d09cc3763d8948ce1a014df2d4c8fcd5e9bf1d932cccab4a6",
+      "size": 1679569,
+      "image": "images/Runners.png"
+    },
+    {
+      "id": "Herbarium",
+      "kind": "COMPRESSOR",
+      "blurb": "9 kompresorů: 1176, LA-2A, 175, Fairchild, SSL, OTT a moderní režimy.",
+      "version": "0.1.0",
+      "notes": "První verze.",
+      "url": "plugins/Herbarium-0.1.0.zip",
+      "sha256": "2d8c9830e755d61de1bb632ad3dc2f28bff86463240ad6e4303e4fb338c0e29f",
+      "size": 1665033,
+      "image": "images/Herbarium.png"
+    },
+    {
+      "id": "Grower",
+      "kind": "MULTI-FX",
+      "blurb": "Multiefekt s jedním velkým knobem GROW: EQ, komprese, saturace, modulace, delay a reverb.",
+      "version": "0.4.0",
+      "notes": "Presety .grower, 10 motivů.",
+      "url": "plugins/Grower-0.4.0.zip",
+      "sha256": "5ef010c700c09377dc7394f34971f7e149ba64c7dceba404053b6a5c848bfaf2",
+      "size": 2746078,
+      "image": "images/Grower.png"
+    }
+  ],
+  "nursery": {
+    "version": "1.0.0",
+    "notes": "První verze instalátoru.",
+    "url": "nursery/Nursery-1.0.0.zip",
+    "sha256": "de790e45071df1d8108372446f2a396f41dd6c77fdf9bf39d740aeb74e6a079d"
+  }
+}
