@@ -18,6 +18,7 @@ Pak v Cubase dej **Studio → VST Plug-in Manager → Rescan**, případně Cuba
 
 | Plugin | Typ | Verze | Co umí |
 |---|---|---|---|
+| **Terrarium** | MODULE GARDEN | 0.1.0 | Nadplugin: Topiary, Glade a Runners jako moduly ve stromu. Sériově, paralelně, L/R, M/S, pásma a punch/body. |
 | **Topiary** | EQ | 0.2.0 | 6 ekvalizérů: 24pásmový CANOPY, suppressor WEEDER, SSL, Pultec, API a Manley styl. |
 | **Glade** | REVERB | 0.1.0 | 9 reverbů: plate, pružiny, hall, komora, room, shimmer, ambient s freeze, gated a konvoluce. |
 | **Runners** | DELAY | 0.1.0 | 8 delayů: pásek, BBD, dub, digitál, multitap, reverse, pitch a granular. |

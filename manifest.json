@@ -3,13 +3,24 @@
   "updated": "2026-11-23",
   "plugins": [
     {
+      "id": "Terrarium",
+      "kind": "MODULE GARDEN",
+      "blurb": "Nadplugin: Topiary, Glade a Runners jako moduly ve stromu. Sériově, paralelně, L/R, M/S, pásma a punch/body.",
+      "version": "0.1.0",
+      "notes": "První verze. Strom s květy, 10 druhů rozdělení, vyrovnání latence.",
+      "url": "plugins/Terrarium-0.1.0.zip",
+      "sha256": "061ec80a98f549dbf8266f8404fe921abf1b17db2c09f8cdeefa442f556440e3",
+      "size": 2554665,
+      "image": "images/Terrarium.png"
+    },
+    {
       "id": "Topiary",
       "kind": "EQ",
       "blurb": "6 ekvalizérů: 24pásmový CANOPY, suppressor WEEDER, SSL, Pultec, API a Manley styl.",
       "version": "0.2.0",
       "notes": "Převedeno na Rootstock. Zvuk i parametry beze změny.",
       "url": "plugins/Topiary-0.2.0.zip",
-      "sha256": "1c6012694fc584c2eba89b254e15981343aa5e7e50168b6b3026a214a5eda3d8",
+      "sha256": "1eab8d4d705222cd82d10dbb13ce7fbebf17a515ceb8779e1739df7f859cd53f",
       "size": 1722442,
       "image": "images/Topiary.png"
     },
@@ -20,7 +31,7 @@
       "version": "0.1.0",
       "notes": "První verze.",
       "url": "plugins/Glade-0.1.0.zip",
-      "sha256": "c82f114d64c52b20322502f5e16b8431df0614bbf4c043da77e5b38ccbc6b5e5",
+      "sha256": "366ac91f35659925e3c10fb334cb6869fc3188b7bcd13561a0112d45d4e71e1a",
       "size": 2248845,
       "image": "images/Glade.png"
     },
@@ -31,7 +42,7 @@
       "version": "0.1.0",
       "notes": "První verze.",
       "url": "plugins/Runners-0.1.0.zip",
-      "sha256": "ed0f802cf3ad200d09cc3763d8948ce1a014df2d4c8fcd5e9bf1d932cccab4a6",
+      "sha256": "8009c8cf921a593334d823bfd7784ff506c4f510a31b608c149bdf355a7f630e",
       "size": 1679569,
       "image": "images/Runners.png"
     },
@@ -42,7 +53,7 @@
       "version": "0.1.0",
       "notes": "První verze.",
       "url": "plugins/Herbarium-0.1.0.zip",
-      "sha256": "2d8c9830e755d61de1bb632ad3dc2f28bff86463240ad6e4303e4fb338c0e29f",
+      "sha256": "d4fc2d90b0919cc773d1f40adaa51c776138367adc1128046bbb4178dd32b973",
       "size": 1665033,
       "image": "images/Herbarium.png"
     },
@@ -53,7 +64,7 @@
       "version": "0.4.0",
       "notes": "Presety .grower, 10 motivů.",
       "url": "plugins/Grower-0.4.0.zip",
-      "sha256": "5ef010c700c09377dc7394f34971f7e149ba64c7dceba404053b6a5c848bfaf2",
+      "sha256": "b155131addc51ff37c889e4b84039094b79dd15e0c2ed5b71020af5e38cec107",
       "size": 2746078,
       "image": "images/Grower.png"
     }
@@ -62,6 +73,6 @@
     "version": "1.0.0",
     "notes": "První verze instalátoru.",
     "url": "nursery/Nursery-1.0.0.zip",
-    "sha256": "de790e45071df1d8108372446f2a396f41dd6c77fdf9bf39d740aeb74e6a079d"
+    "sha256": "cc7e3e4bd21adcd6a2ce2f9f43afd3dd8f510850ce8c98fb08151def5b7a2e2a"
   }
 }
