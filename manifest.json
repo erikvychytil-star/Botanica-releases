@@ -5,12 +5,12 @@
     {
       "id": "Terrarium",
       "kind": "MODULE GARDEN",
-      "blurb": "Nadplugin: Topiary, Glade a Runners jako moduly ve stromu. Sériově, paralelně, L/R, M/S, pásma a punch/body.",
-      "version": "0.1.0",
-      "notes": "První verze. Strom s květy, 10 druhů rozdělení, vyrovnání latence.",
-      "url": "plugins/Terrarium-0.1.0.zip",
-      "sha256": "061ec80a98f549dbf8266f8404fe921abf1b17db2c09f8cdeefa442f556440e3",
-      "size": 2554665,
+      "blurb": "Nadplugin: Topiary, Glade, Runners, Herbarium a Grower jako moduly ve stromu. Sériově, paralelně, L/R, M/S, pásma a punch/body.",
+      "version": "0.2.0",
+      "notes": "Herbarium a Grower jdou teď zasadit jako moduly. Zahrada má všech pět pluginů.",
+      "url": "plugins/Terrarium-0.2.0.zip",
+      "sha256": "9f4526652e69ab20f63eae6046b6ab28e0c22c29b0e4f7e4aee2fa2166f01c2e",
+      "size": 2783036,
       "image": "images/Terrarium.png"
     },
     {
@@ -20,8 +20,8 @@
       "version": "0.2.0",
       "notes": "Převedeno na Rootstock. Zvuk i parametry beze změny.",
       "url": "plugins/Topiary-0.2.0.zip",
-      "sha256": "1eab8d4d705222cd82d10dbb13ce7fbebf17a515ceb8779e1739df7f859cd53f",
-      "size": 1722442,
+      "sha256": "285aaee833b8deaada671fd5a151faa83bcf04d6126c5691091d619fe9653e81",
+      "size": 1726343,
       "image": "images/Topiary.png"
     },
     {
@@ -31,8 +31,8 @@
       "version": "0.1.0",
       "notes": "První verze.",
       "url": "plugins/Glade-0.1.0.zip",
-      "sha256": "366ac91f35659925e3c10fb334cb6869fc3188b7bcd13561a0112d45d4e71e1a",
-      "size": 2248845,
+      "sha256": "616378f575baa79e777770bd819a67d5ecf25832f31c519968c1f04563f5ab5e",
+      "size": 2253415,
       "image": "images/Glade.png"
     },
     {
@@ -42,30 +42,30 @@
       "version": "0.1.0",
       "notes": "První verze.",
       "url": "plugins/Runners-0.1.0.zip",
-      "sha256": "8009c8cf921a593334d823bfd7784ff506c4f510a31b608c149bdf355a7f630e",
-      "size": 1679569,
+      "sha256": "c38a4463f5ece5f2a3de659c021e74efb9790f15ee4f8d0c62e7bea658dc493d",
+      "size": 1684459,
       "image": "images/Runners.png"
     },
     {
       "id": "Herbarium",
       "kind": "COMPRESSOR",
       "blurb": "9 kompresorů: 1176, LA-2A, 175, Fairchild, SSL, OTT a moderní režimy.",
-      "version": "0.1.0",
-      "notes": "První verze.",
-      "url": "plugins/Herbarium-0.1.0.zip",
-      "sha256": "d4fc2d90b0919cc773d1f40adaa51c776138367adc1128046bbb4178dd32b973",
-      "size": 1665033,
+      "version": "0.2.0",
+      "notes": "Převedeno na Rootstock: stejný zvuk i parametry, panely jako u ostatních pluginů. Dá se vložit do Terraria.",
+      "url": "plugins/Herbarium-0.2.0.zip",
+      "sha256": "fbc4ce89262d3f917a475754a3326081f2f177e371731b9e0fe55ad4082a98f5",
+      "size": 1681546,
       "image": "images/Herbarium.png"
     },
     {
       "id": "Grower",
       "kind": "MULTI-FX",
-      "blurb": "Multiefekt s jedním velkým knobem GROW: EQ, komprese, saturace, modulace, delay a reverb.",
-      "version": "0.4.0",
-      "notes": "Presety .grower, 10 motivů.",
-      "url": "plugins/Grower-0.4.0.zip",
-      "sha256": "b155131addc51ff37c889e4b84039094b79dd15e0c2ed5b71020af5e38cec107",
-      "size": 2746078,
+      "blurb": "Multiefekt s jedním velkým knobem GROW: EQ, komprese, saturace, distorze, modulace, delay a reverb.",
+      "version": "0.5.0",
+      "notes": "Nový vzhled jako ostatní pluginy (záložky efektů se dají přetahovat), stejný zvuk, presety i staré projekty. Dá se vložit do Terraria.",
+      "url": "plugins/Grower-0.5.0.zip",
+      "sha256": "a686fc48e1cb192a52e40b98c1a6259129690bd3e098d7a925c101d0b7a837a6",
+      "size": 1729413,
       "image": "images/Grower.png"
     }
   ],
@@ -73,6 +73,6 @@
     "version": "1.0.0",
     "notes": "První verze instalátoru.",
     "url": "nursery/Nursery-1.0.0.zip",
-    "sha256": "cc7e3e4bd21adcd6a2ce2f9f43afd3dd8f510850ce8c98fb08151def5b7a2e2a"
+    "sha256": "cd46c474280b646ece91d1013c901717499d350e31fa411b86ea1a5471c81643"
   }
 }
