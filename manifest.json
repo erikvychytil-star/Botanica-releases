@@ -5,12 +5,12 @@
     {
       "id": "Terrarium",
       "kind": "MODULE GARDEN",
-      "blurb": "Nadplugin: Topiary, Glade, Runners, Herbarium a Grower jako moduly ve stromu. Sériově, paralelně, L/R, M/S, pásma a punch/body.",
-      "version": "0.5.0",
-      "notes": "Nový modul BREEZE (modulace) do stromu.",
-      "url": "plugins/Terrarium-0.5.0.zip",
-      "sha256": "51f723a5c6cff65446a068d6de1b31cf20a40bf051fdd8229cb93f70957947e6",
-      "size": 2935777,
+      "blurb": "Nadplugin: Topiary, Glade, Runners, Herbarium, Grower, Compost a Breeze jako moduly ve stromu. Sériově, paralelně, L/R, M/S, pásma a punch/body.",
+      "version": "0.5.1",
+      "notes": "Compost uvnitř Terraria umí nově i vícepásmovou saturaci (BANDS).",
+      "url": "plugins/Terrarium-0.5.1.zip",
+      "sha256": "827d9f9d85df1721403c26bd9947fd47f58b7b14f76defb2f18a3ad35d7b8bda",
+      "size": 2958725,
       "image": "images/Terrarium.png"
     },
     {
@@ -20,8 +20,8 @@
       "version": "0.3.0",
       "notes": "Canopy: klik nahoře = shelf, dole = cut, Option+kolečko = dynamický band. Přehlednější Weeder s horním limitem od 200 Hz, Apiary má 6 pásem a všechny režimy mají AUTO GAIN.",
       "url": "plugins/Topiary-0.3.0.zip",
-      "sha256": "836a05671d99f6b4a39257318be4c720fca9d79344e00014adc9d684c1e73638",
-      "size": 1757870,
+      "sha256": "36a869f12632e449df417db50cce96c579ad1a136969f3bc3d45a9e939c2d2f7",
+      "size": 1757994,
       "image": "images/Topiary.png"
     },
     {
@@ -31,8 +31,8 @@
       "version": "0.2.0",
       "notes": "Žádné artefakty při kroucení knoflíky. Dewdrop má přirozenější shimmer a Snapdragon se ovládá myší přímo v grafu.",
       "url": "plugins/Glade-0.2.0.zip",
-      "sha256": "d7617e66c848833b001500435c08d3fe1b786a2e9f0bb3066982d860b5669a3d",
-      "size": 2292135,
+      "sha256": "d0ba3597d2cb456ea291f780fde9bcfcba5b0b34ffb18a14b1daac4451e06750",
+      "size": 2292414,
       "image": "images/Glade.png"
     },
     {
@@ -42,8 +42,8 @@
       "version": "0.2.0",
       "notes": "Výběr režimu v Ivy je méně citlivý. Nové menu na pravé tlačítko a vysvětlivky (tlačítko ?).",
       "url": "plugins/Runners-0.2.0.zip",
-      "sha256": "56880baebc58aa1d380b36a889cdbd9e039717ce00cd0107e93332607783e070",
-      "size": 1715338,
+      "sha256": "69dd3ce809dd43f481721276953a34fa42d371f1364ff9c9dd66bd6223d977b5",
+      "size": 1715754,
       "image": "images/Runners.png"
     },
     {
@@ -53,8 +53,8 @@
       "version": "0.2.1",
       "notes": "Nové menu na pravé tlačítko a vysvětlivky (tlačítko ?).",
       "url": "plugins/Herbarium-0.2.1.zip",
-      "sha256": "cf14422675211de9f886f6f9fd0bc9ed7ca20777a3e6180febadd4aea4b75de3",
-      "size": 1710880,
+      "sha256": "0216ae36b386d2a67345420e6d0d1c4e99fcf6d855c0cec1334097135c043b2a",
+      "size": 1711158,
       "image": "images/Herbarium.png"
     },
     {
@@ -64,19 +64,19 @@
       "version": "0.5.1",
       "notes": "Nové menu na pravé tlačítko a vysvětlivky (tlačítko ?).",
       "url": "plugins/Grower-0.5.1.zip",
-      "sha256": "8c878a050b77f8d7952b57d7c5d6cdfb62af5657cc20bfcc8dc1b3892761f800",
-      "size": 1757596,
+      "sha256": "f9a5e3c04ef22d78cc268024b016112d7340ca0130ee0be995f3e20409178920",
+      "size": 1758235,
       "image": "images/Grower.png"
     },
     {
       "id": "Compost",
       "kind": "SATURATION",
-      "blurb": "6 saturací: pásek, elektronka, transformátor, pult, fuzz a lo-fi.",
-      "version": "0.1.0",
-      "notes": "Nový plugin: 6 druhů saturace, všechny 4× oversampling. AUTO GAIN je zapnutý, takže DRIVE přidává harmonické, ne hlasitost.",
-      "url": "plugins/Compost-0.1.0.zip",
-      "sha256": "1bc45b07c53be29def2d98345bf6863adc07b03b80c1af15314822607d04d29f",
-      "size": 1681827,
+      "blurb": "6 saturací (pásek, elektronka, transformátor, pult, fuzz, lo-fi) i vícepásmově.",
+      "version": "0.2.0",
+      "notes": "Nová záložka BANDS: rozdělí signál na 2–4 pásma a každé dostane vlastní saturaci, drive, hlasitost, mix a solo/mute. Dělicí frekvence se táhnou přímo v grafu.",
+      "url": "plugins/Compost-0.2.0.zip",
+      "sha256": "f096d72f2c8e32a5a31f88aca34dbdcfd93563ce83420e2fb84d3fcddf9ea251",
+      "size": 1706174,
       "image": "images/Compost.png"
     },
     {
@@ -86,8 +86,8 @@
       "version": "0.1.0",
       "notes": "Nový plugin: 6 modulací se synchronizací na tempo. Při zapnutém SYNC se velký knob přepne na notovou hodnotu.",
       "url": "plugins/Breeze-0.1.0.zip",
-      "sha256": "b9d2060abdf7c56aa4e95777612e78a49b200f28618d2d255b8dc7a32dd0646c",
-      "size": 1684045,
+      "sha256": "61724e434a44494bbb9295af1b4783961f86648da55763de69ad1deba26d74fb",
+      "size": 1684222,
       "image": "images/Breeze.png"
     }
   ],
@@ -95,6 +95,6 @@
     "version": "1.0.0",
     "notes": "První verze instalátoru.",
     "url": "nursery/Nursery-1.0.0.zip",
-    "sha256": "e3313eae4872125ae04c7c5b57819830e35f47ee1cc3c589eb0e7bb847d2f746"
+    "sha256": "7229cab316de0fdcecedb065059a0458e4654bda9921e992a281fd54b9dc4e96"
   }
 }
