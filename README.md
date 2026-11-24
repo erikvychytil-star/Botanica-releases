@@ -18,13 +18,13 @@ Pak v Cubase dej **Studio → VST Plug-in Manager → Rescan**, případně Cuba
 
 | Plugin | Typ | Verze | Co umí |
 |---|---|---|---|
-| **Terrarium** | MODULE GARDEN | 0.5.2 | Nadplugin: Topiary, Glade, Runners, Herbarium, Grower, Compost a Breeze jako moduly ve stromu. Sériově, paralelně, L/R, M/S, pásma a punch/body. |
-| **Topiary** | EQ | 0.3.1 | 6 ekvalizérů: 24pásmový CANOPY, suppressor WEEDER, SSL, Pultec, API a Manley styl. |
-| **Glade** | REVERB | 0.2.1 | 9 reverbů: plate, pružiny, hall, komora, room, shimmer, ambient s freeze, gated a konvoluce. |
-| **Runners** | DELAY | 0.2.1 | 8 delayů: pásek, BBD, dub, digitál, multitap, reverse, pitch a granular. |
-| **Herbarium** | COMPRESSOR | 0.2.2 | 9 kompresorů: 1176, LA-2A, 175, Fairchild, SSL, OTT a moderní režimy. |
-| **Grower** | MULTI-FX | 0.5.2 | Multiefekt s jedním velkým knobem GROW: EQ, komprese, saturace, distorze, modulace, delay a reverb. |
-| **Compost** | SATURATION | 0.2.1 | 6 saturací (pásek, elektronka, transformátor, pult, fuzz, lo-fi) i vícepásmově. |
-| **Breeze** | MODULATION | 0.1.1 | 6 modulací: chorus, flanger, phaser, tremolo, vibrato a rotující reprák. |
+| **Terrarium** | MODULE GARDEN | 0.6.0 | Nadplugin: Topiary, Glade, Runners, Herbarium, Grower, Compost a Breeze jako moduly ve stromu. Sériově, paralelně, L/R, M/S, pásma a punch/body. |
+| **Topiary** | EQ | 0.4.0 | 6 ekvalizérů: 24pásmový CANOPY, suppressor WEEDER, SSL, Pultec, API a Manley styl. |
+| **Glade** | REVERB | 0.3.0 | 9 reverbů: plate, pružiny, hall, komora, room, shimmer, ambient s freeze, gated a konvoluce. |
+| **Runners** | DELAY | 0.2.2 | 8 delayů: pásek, BBD, dub, digitál, multitap, reverse, pitch a granular. |
+| **Herbarium** | COMPRESSOR | 0.3.0 | 9 kompresorů: 1176, LA-2A, 175, Fairchild, SSL, OTT a moderní režimy. |
+| **Grower** | MULTI-FX | 0.5.3 | Multiefekt s jedním velkým knobem GROW: EQ, komprese, saturace, distorze, modulace, delay a reverb. |
+| **Compost** | SATURATION | 0.2.2 | 6 saturací (pásek, elektronka, transformátor, pult, fuzz, lo-fi) i vícepásmově. |
+| **Breeze** | MODULATION | 0.2.0 | 9 modulací: chorus, flanger, phaser, tremolo, vibrato, Leslie a 3 psychoakustické (orbit, barberpole, binaurální beats). |
 
 Pluginy se instalují do `~/Library/Audio/Plug-Ins/VST3`. Výrobce v Cubase: **Erik**.
