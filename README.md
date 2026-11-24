@@ -18,11 +18,12 @@ Pak v Cubase dej **Studio → VST Plug-in Manager → Rescan**, případně Cuba
 
 | Plugin | Typ | Verze | Co umí |
 |---|---|---|---|
-| **Terrarium** | MODULE GARDEN | 0.3.0 | Nadplugin: Topiary, Glade, Runners, Herbarium a Grower jako moduly ve stromu. Sériově, paralelně, L/R, M/S, pásma a punch/body. |
+| **Terrarium** | MODULE GARDEN | 0.4.0 | Nadplugin: Topiary, Glade, Runners, Herbarium a Grower jako moduly ve stromu. Sériově, paralelně, L/R, M/S, pásma a punch/body. |
 | **Topiary** | EQ | 0.3.0 | 6 ekvalizérů: 24pásmový CANOPY, suppressor WEEDER, SSL, Pultec, API a Manley styl. |
 | **Glade** | REVERB | 0.2.0 | 9 reverbů: plate, pružiny, hall, komora, room, shimmer, ambient s freeze, gated a konvoluce. |
 | **Runners** | DELAY | 0.2.0 | 8 delayů: pásek, BBD, dub, digitál, multitap, reverse, pitch a granular. |
 | **Herbarium** | COMPRESSOR | 0.2.1 | 9 kompresorů: 1176, LA-2A, 175, Fairchild, SSL, OTT a moderní režimy. |
 | **Grower** | MULTI-FX | 0.5.1 | Multiefekt s jedním velkým knobem GROW: EQ, komprese, saturace, distorze, modulace, delay a reverb. |
+| **Compost** | SATURATION | 0.1.0 | 6 saturací: pásek, elektronka, transformátor, pult, fuzz a lo-fi. |
 
 Pluginy se instalují do `~/Library/Audio/Plug-Ins/VST3`. Výrobce v Cubase: **Erik**.
