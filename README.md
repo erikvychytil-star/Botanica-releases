@@ -18,7 +18,7 @@ Pak v Cubase dej **Studio → VST Plug-in Manager → Rescan**, případně Cuba
 
 | Plugin | Typ | Verze | Co umí |
 |---|---|---|---|
-| **Terrarium** | MODULE GARDEN | 0.6.1 | Nadplugin: Topiary, Glade, Runners, Herbarium, Grower, Compost, Breeze, Mycelium a Spore jako moduly ve stromu. Sériově, paralelně, L/R, M/S, pásma a punch/body. |
+| **Terrarium** | MODULE GARDEN | 0.7.0 | Nadplugin: Topiary, Glade, Runners, Herbarium, Grower, Compost, Breeze, Mycelium, Spore a Photosynthesis jako moduly ve stromu. Sériově, paralelně, L/R, M/S, pásma a punch/body. |
 | **Topiary** | EQ | 0.4.0 | 6 ekvalizérů: 24pásmový CANOPY, suppressor WEEDER, SSL, Pultec, API a Manley styl. |
 | **Glade** | REVERB | 0.3.0 | 9 reverbů: plate, pružiny, hall, komora, room, shimmer, ambient s freeze, gated a konvoluce. |
 | **Runners** | DELAY | 0.2.2 | 8 delayů: pásek, BBD, dub, digitál, multitap, reverse, pitch a granular. |
@@ -28,5 +28,6 @@ Pak v Cubase dej **Studio → VST Plug-in Manager → Rescan**, případně Cuba
 | **Breeze** | MODULATION | 0.2.0 | 9 modulací: chorus, flanger, phaser, tremolo, vibrato, Leslie a 3 psychoakustické (orbit, barberpole, binaurální beats). |
 | **Mycelium** | GRANULAR | 0.1.0 | Granulární síť: zrna putují sítí 6 uzlů, každý je přeladí, zpozdí a posadí do prostoru. |
 | **Spore** | SPECTRAL | 0.1.0 | Spektrální zmrazení a proměna: chyť okamžik a nech ho klíčit, plesnivět, růst nebo rozpadat se. |
+| **Photosynthesis** | SPECTRAL | 0.1.0 | Zvuk krmený světlem: obrázek se čte jako spektrogram a tvaruje, barví nebo sám rozezní tvůj signál. |
 
 Pluginy se instalují do `~/Library/Audio/Plug-Ins/VST3`. Výrobce v Cubase: **Erik**.
