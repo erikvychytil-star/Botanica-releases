@@ -6,11 +6,11 @@
       "id": "Terrarium",
       "kind": "MODULE GARDEN",
       "blurb": "Nadplugin: Topiary, Glade, Runners, Herbarium a Grower jako moduly ve stromu. Sériově, paralelně, L/R, M/S, pásma a punch/body.",
-      "version": "0.4.0",
-      "notes": "Nový modul COMPOST (saturace) do stromu.",
-      "url": "plugins/Terrarium-0.4.0.zip",
-      "sha256": "5005b87ded40af3d1f8872be81e468c7234b62d74ffa1b8d19a250bb14c2dd1d",
-      "size": 2879214,
+      "version": "0.5.0",
+      "notes": "Nový modul BREEZE (modulace) do stromu.",
+      "url": "plugins/Terrarium-0.5.0.zip",
+      "sha256": "51f723a5c6cff65446a068d6de1b31cf20a40bf051fdd8229cb93f70957947e6",
+      "size": 2935777,
       "image": "images/Terrarium.png"
     },
     {
@@ -20,8 +20,8 @@
       "version": "0.3.0",
       "notes": "Canopy: klik nahoře = shelf, dole = cut, Option+kolečko = dynamický band. Přehlednější Weeder s horním limitem od 200 Hz, Apiary má 6 pásem a všechny režimy mají AUTO GAIN.",
       "url": "plugins/Topiary-0.3.0.zip",
-      "sha256": "f716336788b9eb3da147d6639e845e167c53297de96e54a44ec0f42ced980d1f",
-      "size": 1756580,
+      "sha256": "836a05671d99f6b4a39257318be4c720fca9d79344e00014adc9d684c1e73638",
+      "size": 1757870,
       "image": "images/Topiary.png"
     },
     {
@@ -31,8 +31,8 @@
       "version": "0.2.0",
       "notes": "Žádné artefakty při kroucení knoflíky. Dewdrop má přirozenější shimmer a Snapdragon se ovládá myší přímo v grafu.",
       "url": "plugins/Glade-0.2.0.zip",
-      "sha256": "24f8cdc03193455c90e22505e19c893c50b0968c4350f18f2c13a3485327e8db",
-      "size": 2290801,
+      "sha256": "d7617e66c848833b001500435c08d3fe1b786a2e9f0bb3066982d860b5669a3d",
+      "size": 2292135,
       "image": "images/Glade.png"
     },
     {
@@ -42,8 +42,8 @@
       "version": "0.2.0",
       "notes": "Výběr režimu v Ivy je méně citlivý. Nové menu na pravé tlačítko a vysvětlivky (tlačítko ?).",
       "url": "plugins/Runners-0.2.0.zip",
-      "sha256": "12260c77598a843f1209a45a25fef90301864344aa1e535de5ad7a53816283a2",
-      "size": 1713693,
+      "sha256": "56880baebc58aa1d380b36a889cdbd9e039717ce00cd0107e93332607783e070",
+      "size": 1715338,
       "image": "images/Runners.png"
     },
     {
@@ -53,8 +53,8 @@
       "version": "0.2.1",
       "notes": "Nové menu na pravé tlačítko a vysvětlivky (tlačítko ?).",
       "url": "plugins/Herbarium-0.2.1.zip",
-      "sha256": "6d0e4dfce1b3825715f54ab1a3fddb9210902526af3b9ad12a53797c5f7d205d",
-      "size": 1709587,
+      "sha256": "cf14422675211de9f886f6f9fd0bc9ed7ca20777a3e6180febadd4aea4b75de3",
+      "size": 1710880,
       "image": "images/Herbarium.png"
     },
     {
@@ -64,8 +64,8 @@
       "version": "0.5.1",
       "notes": "Nové menu na pravé tlačítko a vysvětlivky (tlačítko ?).",
       "url": "plugins/Grower-0.5.1.zip",
-      "sha256": "47e831de37a805ddc52616041406142f0c843b4823772e35f97456e5bd51b380",
-      "size": 1755807,
+      "sha256": "8c878a050b77f8d7952b57d7c5d6cdfb62af5657cc20bfcc8dc1b3892761f800",
+      "size": 1757596,
       "image": "images/Grower.png"
     },
     {
@@ -75,15 +75,26 @@
       "version": "0.1.0",
       "notes": "Nový plugin: 6 druhů saturace, všechny 4× oversampling. AUTO GAIN je zapnutý, takže DRIVE přidává harmonické, ne hlasitost.",
       "url": "plugins/Compost-0.1.0.zip",
-      "sha256": "492f0d0211f19cb6fd00092087964386e34ebf74a9a289e34e7a565a0a005d66",
-      "size": 1680619,
+      "sha256": "1bc45b07c53be29def2d98345bf6863adc07b03b80c1af15314822607d04d29f",
+      "size": 1681827,
       "image": "images/Compost.png"
+    },
+    {
+      "id": "Breeze",
+      "kind": "MODULATION",
+      "blurb": "6 modulací: chorus, flanger, phaser, tremolo, vibrato a rotující reprák.",
+      "version": "0.1.0",
+      "notes": "Nový plugin: 6 modulací se synchronizací na tempo. Při zapnutém SYNC se velký knob přepne na notovou hodnotu.",
+      "url": "plugins/Breeze-0.1.0.zip",
+      "sha256": "b9d2060abdf7c56aa4e95777612e78a49b200f28618d2d255b8dc7a32dd0646c",
+      "size": 1684045,
+      "image": "images/Breeze.png"
     }
   ],
   "nursery": {
     "version": "1.0.0",
     "notes": "První verze instalátoru.",
     "url": "nursery/Nursery-1.0.0.zip",
-    "sha256": "fecac1edba608e568060789bfce0ee2eed8589065e81ba5b7d09c0c20bfb9762"
+    "sha256": "e3313eae4872125ae04c7c5b57819830e35f47ee1cc3c589eb0e7bb847d2f746"
   }
 }
