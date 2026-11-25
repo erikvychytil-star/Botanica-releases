@@ -18,7 +18,7 @@ Pak v Cubase dej **Studio → VST Plug-in Manager → Rescan**, případně Cuba
 
 | Plugin | Typ | Verze | Co umí |
 |---|---|---|---|
-| **Terrarium** | MODULE GARDEN | 0.8.2 | Nadplugin: Topiary, Glade, Runners, Herbarium, Grower, Compost, Breeze, Mycelium, Spore, Photosynthesis, Pollinator a Rootwork jako moduly ve stromu. Sériově, paralelně, L/R, M/S, pásma a punch/body. |
+| **Terrarium** | MODULE GARDEN | 0.8.3 | Nadplugin: Topiary, Glade, Runners, Herbarium, Grower, Compost, Breeze, Mycelium, Spore, Photosynthesis, Pollinator, Rootwork a Rot Garden jako moduly ve stromu. Sériově, paralelně, L/R, M/S, pásma a punch/body. |
 | **Topiary** | EQ | 0.4.0 | 6 ekvalizérů: 24pásmový CANOPY, suppressor WEEDER, SSL, Pultec, API a Manley styl. |
 | **Glade** | REVERB | 0.3.0 | 9 reverbů: plate, pružiny, hall, komora, room, shimmer, ambient s freeze, gated a konvoluce. |
 | **Runners** | DELAY | 0.2.2 | 8 delayů: pásek, BBD, dub, digitál, multitap, reverse, pitch a granular. |
@@ -31,5 +31,6 @@ Pak v Cubase dej **Studio → VST Plug-in Manager → Rescan**, případně Cuba
 | **Photosynthesis** | SPECTRAL | 0.1.0 | Zvuk krmený světlem: obrázek se čte jako spektrogram a tvaruje, barví nebo sám rozezní tvůj signál. |
 | **Pollinator** | RESONATOR | 0.1.0 | Rezonátory: tvůj zvuk rozezní akord strun, sitárové struny, dřevo, sklo, zvon nebo roj včel. |
 | **Rootwork** | SLICER | 0.1.0 | Generativní slicer: vzory opakování, reverzů a oktáv rostou jako kořeny podle L-systémů. |
+| **RotGarden** | DECAY | 0.1.0 | Zvuk, který stárne: páska, deska, data nebo vadnoucí rostlina hnijí během písně nebo dokud zvuk zní. |
 
 Pluginy se instalují do `~/Library/Audio/Plug-Ins/VST3`. Výrobce v Cubase: **Erik**.
