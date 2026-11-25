@@ -6,11 +6,11 @@
       "id": "Terrarium",
       "kind": "MODULE GARDEN",
       "blurb": "Nadplugin: Topiary, Glade, Runners, Herbarium, Grower, Compost, Breeze, Mycelium, Spore, Photosynthesis, Pollinator, Rootwork, Rot Garden a Symbiosis jako moduly ve stromu. Sériově, paralelně, L/R, M/S, pásma a punch/body.",
-      "version": "0.8.5",
-      "notes": "Nový modul Seed Bank (automatický resampler).",
-      "url": "plugins/Terrarium-0.8.5.zip",
-      "sha256": "589504f0f032ee3ff3f5228eebceccb823c81bd2c385174183c2b66647c93291",
-      "size": 3308641,
+      "version": "0.8.6",
+      "notes": "Nový modul Trellis (spektrální ladička).",
+      "url": "plugins/Terrarium-0.8.6.zip",
+      "sha256": "226afd5d00ff935bf3c65669eda183113e39a2380f042c8734d09dab973ae229",
+      "size": 3342384,
       "image": "images/Terrarium.png"
     },
     {
@@ -20,8 +20,8 @@
       "version": "0.4.0",
       "notes": "Weeder má nový analyzér ve stylu soothe a Passiflora umí Mid/Side se dvěma sadami pásem. Option+kolečko v Canopy je jemnější a AUTO GAIN jede podle LUFS.",
       "url": "plugins/Topiary-0.4.0.zip",
-      "sha256": "0b8493288cf4336cdea6ec25e94d3b5429603f3763ebac7226b259dd984c5872",
-      "size": 1778434,
+      "sha256": "ff673301ac1153dc24d2f2b5b2865740ef38e5e001e6c4fbc6a3497401bdd8f1",
+      "size": 1779102,
       "image": "images/Topiary.png"
     },
     {
@@ -31,8 +31,8 @@
       "version": "0.3.0",
       "notes": "Lilypad má 6 typů plechu: STEEL, GOLD, BRIGHT, DARK, DRUM a HUGE.",
       "url": "plugins/Glade-0.3.0.zip",
-      "sha256": "517c5bd18c09ee087988d5f6d3ec4468baa66368cc053762444b18d7e088bac2",
-      "size": 2308057,
+      "sha256": "0267157198a16b3628a483662954862f6dbd29a1f318b2eac14b03df7a6df11a",
+      "size": 2308870,
       "image": "images/Glade.png"
     },
     {
@@ -42,8 +42,8 @@
       "version": "0.2.2",
       "notes": "SYNC a NOTE se teď přenáší do všech režimů najednou.",
       "url": "plugins/Runners-0.2.2.zip",
-      "sha256": "09546d877d57f148b7c40cbeedd04b9d0af8f7939494b6dab3469a1290e5b2fa",
-      "size": 1730748,
+      "sha256": "e35cf1bd42e667d312abcaca73ce8a938c9579b9ecec072d572023fe5dd6e998",
+      "size": 1730882,
       "image": "images/Runners.png"
     },
     {
@@ -53,8 +53,8 @@
       "version": "0.3.0",
       "notes": "Nové tlačítko BYPASS pro rychlé porovnání a AUTO GAIN, který vyrovnává hlasitost podle LUFS.",
       "url": "plugins/Herbarium-0.3.0.zip",
-      "sha256": "ea01bec620085bcc9d3ab430feedee70f1c8c219fd7a05aec084a5312e7e2149",
-      "size": 1727063,
+      "sha256": "8aeac7a348096ad19ffb0ee5a5ae6a6466a86cea86ed87ec7f2bc073a4be1923",
+      "size": 1727339,
       "image": "images/Herbarium.png"
     },
     {
@@ -64,8 +64,8 @@
       "version": "0.5.3",
       "notes": "Drobné opravy ve společném kódu.",
       "url": "plugins/Grower-0.5.3.zip",
-      "sha256": "a1a86b9152b76f8eb011e9c5fb509e01a9b7c366bc9a2b747251e1a0640689ad",
-      "size": 1772937,
+      "sha256": "7c6f73acd7b2451d0ed44b1cb1be776bec49848ef47223c67a1bbf7b57bb19d6",
+      "size": 1773611,
       "image": "images/Grower.png"
     },
     {
@@ -75,8 +75,8 @@
       "version": "0.2.2",
       "notes": "AUTO GAIN teď vyrovnává hlasitost podle LUFS.",
       "url": "plugins/Compost-0.2.2.zip",
-      "sha256": "92d600df4cb021132a13aba3295013970df03b93e615312cc0abd81ab95a3de8",
-      "size": 1721664,
+      "sha256": "9359b23a37e42a92675080ce2cab82412e8456e08578dc5ca45fcd90bb80e8a7",
+      "size": 1722235,
       "image": "images/Compost.png"
     },
     {
@@ -86,8 +86,8 @@
       "version": "0.2.0",
       "notes": "Nové režimy ORBIT, BARBERPOLE a BEATS, tlačítko FREEZE zastaví modulaci na místě. SYNC a NOTE se teď přenáší do všech režimů.",
       "url": "plugins/Breeze-0.2.0.zip",
-      "sha256": "b90712133d90fb2e14b3c1b79ca6dc3ebbe54dd608e3f9262c885bc5d6310344",
-      "size": 1711838,
+      "sha256": "c2bbbac4794db6504100da124d4fe7af7fc12cd65ba89d70c528de7eeaf0ab67",
+      "size": 1712347,
       "image": "images/Breeze.png"
     },
     {
@@ -97,8 +97,8 @@
       "version": "0.1.0",
       "notes": "Nový experimentální plugin: granulární síť se 4 tvary (HYPHA, RING, WEB, BLOOM). Uzly táhneš myší, FREEZE pěstuje zrna z posledních 10 sekund.",
       "url": "plugins/Mycelium-0.1.0.zip",
-      "sha256": "75c8c56eea4e5ccffc29aa1835313fbb1cdd87dc54c457ba9fe2bb5b1c206d03",
-      "size": 1674060,
+      "sha256": "081cbdebc8d68b58a7bd8ca4e12d2959f15ea8e0f35f61fdd76ba77cbc3fa100",
+      "size": 1674778,
       "image": "images/Mycelium.png"
     },
     {
@@ -108,8 +108,8 @@
       "version": "0.1.0",
       "notes": "Nový experimentální plugin: spektrální FREEZE a 4 režimy (SPORE, MOULD, GERMINATE, DECOMPOSE) se spektrogramem.",
       "url": "plugins/Spore-0.1.0.zip",
-      "sha256": "cf9e3dbaca88dc20276710fd69a387df9be42b1a60fcf4d1436dfe086ddab20a",
-      "size": 1668308,
+      "sha256": "8fcd47639c536f463ffb22ec2241e431e36b272802ce14f4c686d59cfe38d5a9",
+      "size": 1668749,
       "image": "images/Spore.png"
     },
     {
@@ -119,8 +119,8 @@
       "version": "0.1.0",
       "notes": "Nový experimentální plugin: obrázek jako spektrogram ve 3 režimech (LEAF, PAINT, GLOW). Vestavěné vzory nebo vlastní obrázek přes LOAD IMAGE.",
       "url": "plugins/Photosynthesis-0.1.0.zip",
-      "sha256": "054b392d5360f2d0e9a807a5f4ff3fd0c640ac7759b33b1173eb3c93e3e6ba8b",
-      "size": 1818269,
+      "sha256": "9036ee9c78e94c95db3413837d52d86aeb49eee31815d4c48c193d4cf98452c2",
+      "size": 1818653,
       "image": "images/Photosynthesis.png"
     },
     {
@@ -130,8 +130,8 @@
       "version": "0.1.0",
       "notes": "Nový experimentální plugin: 4 druhy rezonátorů (BLOSSOM, NECTAR, HIVE, SWARM) laděné tóninou, FREEZE nechá znít navždy.",
       "url": "plugins/Pollinator-0.1.0.zip",
-      "sha256": "e64da6f128a19b0500229cf76b5a3f7e6276201ae4fde6d227bf0a9c84d29824",
-      "size": 1686969,
+      "sha256": "00e038bf04661b774f1e11a91580cde77589fa406e4a6ed44ae0d90bf3b5730a",
+      "size": 1687343,
       "image": "images/Pollinator.png"
     },
     {
@@ -141,8 +141,8 @@
       "version": "0.1.0",
       "notes": "Nový experimentální plugin: 4 druhy kořenů (TAPROOT, RHIZOME, FIBROUS, TUBER), GROWTH, SEED, MUTATE a HOLD. Bez latence, v tempu písně.",
       "url": "plugins/Rootwork-0.1.0.zip",
-      "sha256": "a26a0cbe7ca99f05f14d8ae28f3089ac77490a9405b3029cb4072f6114d29b68",
-      "size": 1670837,
+      "sha256": "d427b1a7aceaf741b11752a174f913284898981d4eb86ebbc6a0d51315ae5f8e",
+      "size": 1671319,
       "image": "images/Rootwork.png"
     },
     {
@@ -152,8 +152,8 @@
       "version": "0.1.0",
       "notes": "Nový experimentální plugin: 4 druhy hniloby (MILDEW, DUST, BITROT, WILT), ROT a CLOCK (pořád, podle písně, od play, dokud zní).",
       "url": "plugins/RotGarden-0.1.0.zip",
-      "sha256": "45683b96f5501f4429681d4bf63939dfab86b5b2bb01c2f87f8f0139a9dc9d74",
-      "size": 1665352,
+      "sha256": "9200059ce1786db4d738c9da281a676299db8477ba403bacaa09590e46ba2dd8",
+      "size": 1665779,
       "image": "images/RotGarden.png"
     },
     {
@@ -163,8 +163,8 @@
       "version": "0.1.0",
       "notes": "Nový experimentální plugin se sidechainem: MUTUALISM (vyhýbání v pásmech), PARASITE (duck/gate/obálka), GRAFT (vokodér), LICHEN (spektrální srůstání). Bez sidechainu bere vlastní vstup.",
       "url": "plugins/Symbiosis-0.1.0.zip",
-      "sha256": "ece8806b08750aa0e32cf4ec4dc81258f258dee15ebceea592065c00d0c46816",
-      "size": 1685977,
+      "sha256": "4277f2ac04d6fde5b5c62ae13df1ec27719b45e65f93b71ab0fd281f73e06542",
+      "size": 1686280,
       "image": "images/Symbiosis.png"
     },
     {
@@ -174,15 +174,26 @@
       "version": "0.1.0",
       "notes": "Nový experimentální plugin: banka 16 semínek, 4 způsoby sázení (SCATTER, FURROW, ORCHARD, CUTTINGS), KEEP a CLEAR.",
       "url": "plugins/SeedBank-0.1.0.zip",
-      "sha256": "b79b799120ee44353676af5e4816fd4eea8c5c5e53d71896686c1f71c9bf6ff3",
-      "size": 1677324,
+      "sha256": "338afd546e9f4fba6c2064e174aff78ec9d14c6079b2abc357e7d4705095d97c",
+      "size": 1677774,
       "image": "images/SeedBank.png"
+    },
+    {
+      "id": "Trellis",
+      "kind": "TUNER",
+      "blurb": "Spektrální ladička: každá složka zvuku vyleze na nejbližší tón stupnice, akordu nebo alikvotní řady. I bicí a šum hrají v tónině.",
+      "version": "0.1.0",
+      "notes": "Nový experimentální plugin: 4 režimy (SCALE, CHORD, OVERTONE, STRETCH), STRENGTH, GLIDE, HUMANIZE a limity, pod/nad kterými zvuk zůstane.",
+      "url": "plugins/Trellis-0.1.0.zip",
+      "sha256": "cb53b148472f38cf0ce03df6e129558b7125981af3ea7fbf656642a37415edd4",
+      "size": 1681347,
+      "image": "images/Trellis.png"
     }
   ],
   "nursery": {
     "version": "1.0.1",
     "notes": "Seznam pluginů se čte přímo z GitHubu, nové verze se ukážou hned po vydání.",
     "url": "nursery/Nursery-1.0.1.zip",
-    "sha256": "eb1ee6d4b786af536076d26d7218b7eb3561d9652c18313797369e48c893599d"
+    "sha256": "290d96d8b414e55975110b5e2f40debd48c769d003bd2ea1899b483cd353857e"
   }
 }

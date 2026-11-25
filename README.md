@@ -18,7 +18,7 @@ Pak v Cubase dej **Studio → VST Plug-in Manager → Rescan**, případně Cuba
 
 | Plugin | Typ | Verze | Co umí |
 |---|---|---|---|
-| **Terrarium** | MODULE GARDEN | 0.8.5 | Nadplugin: Topiary, Glade, Runners, Herbarium, Grower, Compost, Breeze, Mycelium, Spore, Photosynthesis, Pollinator, Rootwork, Rot Garden a Symbiosis jako moduly ve stromu. Sériově, paralelně, L/R, M/S, pásma a punch/body. |
+| **Terrarium** | MODULE GARDEN | 0.8.6 | Nadplugin: Topiary, Glade, Runners, Herbarium, Grower, Compost, Breeze, Mycelium, Spore, Photosynthesis, Pollinator, Rootwork, Rot Garden a Symbiosis jako moduly ve stromu. Sériově, paralelně, L/R, M/S, pásma a punch/body. |
 | **Topiary** | EQ | 0.4.0 | 6 ekvalizérů: 24pásmový CANOPY, suppressor WEEDER, SSL, Pultec, API a Manley styl. |
 | **Glade** | REVERB | 0.3.0 | 9 reverbů: plate, pružiny, hall, komora, room, shimmer, ambient s freeze, gated a konvoluce. |
 | **Runners** | DELAY | 0.2.2 | 8 delayů: pásek, BBD, dub, digitál, multitap, reverse, pitch a granular. |
@@ -34,5 +34,6 @@ Pak v Cubase dej **Studio → VST Plug-in Manager → Rescan**, případně Cuba
 | **RotGarden** | DECAY | 0.1.0 | Zvuk, který stárne: páska, deska, data nebo vadnoucí rostlina hnijí během písně nebo dokud zvuk zní. |
 | **Symbiosis** | SIDECHAIN | 0.1.0 | Dvě stopy jako jeden organismus: přes sidechain si dělají místo, vnucují si rytmus, mluví jedna přes druhou nebo srůstají. |
 | **SeedBank** | RESAMPLER | 0.1.0 | Automatický resampler: sám chytá údery, tóny a hlasitá místa a sází je zpátky jako rytmus, melodii nebo ozvěny. |
+| **Trellis** | TUNER | 0.1.0 | Spektrální ladička: každá složka zvuku vyleze na nejbližší tón stupnice, akordu nebo alikvotní řady. I bicí a šum hrají v tónině. |
 
 Pluginy se instalují do `~/Library/Audio/Plug-Ins/VST3`. Výrobce v Cubase: **Erik**.
