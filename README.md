@@ -18,7 +18,7 @@ Pak v Cubase dej **Studio → VST Plug-in Manager → Rescan**, případně Cuba
 
 | Plugin | Typ | Verze | Co umí |
 |---|---|---|---|
-| **Terrarium** | MODULE GARDEN | 0.8.7 | Nadplugin: Topiary, Glade, Runners, Herbarium, Grower, Compost, Breeze, Mycelium, Spore, Photosynthesis, Pollinator, Rootwork, Rot Garden a Symbiosis jako moduly ve stromu. Sériově, paralelně, L/R, M/S, pásma a punch/body. |
+| **Terrarium** | MODULE GARDEN | 0.8.8 | Nadplugin: Topiary, Glade, Runners, Herbarium, Grower, Compost, Breeze, Mycelium, Spore, Photosynthesis, Pollinator, Rootwork, Rot Garden a Symbiosis jako moduly ve stromu. Sériově, paralelně, L/R, M/S, pásma a punch/body. |
 | **Topiary** | EQ | 0.4.0 | 6 ekvalizérů: 24pásmový CANOPY, suppressor WEEDER, SSL, Pultec, API a Manley styl. |
 | **Glade** | REVERB | 0.3.0 | 9 reverbů: plate, pružiny, hall, komora, room, shimmer, ambient s freeze, gated a konvoluce. |
 | **Runners** | DELAY | 0.2.2 | 8 delayů: pásek, BBD, dub, digitál, multitap, reverse, pitch a granular. |
@@ -29,12 +29,12 @@ Pak v Cubase dej **Studio → VST Plug-in Manager → Rescan**, případně Cuba
 | **Mycelium** | GRANULAR | 0.1.0 | Granulární síť: zrna putují sítí 6 uzlů, každý je přeladí, zpozdí a posadí do prostoru. |
 | **Spore** | SPECTRAL | 0.1.0 | Spektrální zmrazení a proměna: chyť okamžik a nech ho klíčit, plesnivět, růst nebo rozpadat se. |
 | **Photosynthesis** | SPECTRAL | 0.1.0 | Zvuk krmený světlem: obrázek se čte jako spektrogram a tvaruje, barví nebo sám rozezní tvůj signál. |
-| **Pollinator** | RESONATOR | 0.1.0 | Rezonátory: tvůj zvuk rozezní akord strun, sitárové struny, dřevo, sklo, zvon nebo roj včel. |
+| **Pollinator** | RESONATOR | 0.1.1 | Rezonátory: tvůj zvuk rozezní akord strun, sitárové struny, dřevo, sklo, zvon nebo roj včel. |
 | **Rootwork** | SLICER | 0.1.0 | Generativní slicer: vzory opakování, reverzů a oktáv rostou jako kořeny podle L-systémů. |
 | **RotGarden** | DECAY | 0.1.0 | Zvuk, který stárne: páska, deska, data nebo vadnoucí rostlina hnijí během písně nebo dokud zvuk zní. |
 | **Symbiosis** | SIDECHAIN | 0.1.0 | Dvě stopy jako jeden organismus: přes sidechain si dělají místo, vnucují si rytmus, mluví jedna přes druhou nebo srůstají. |
 | **SeedBank** | RESAMPLER | 0.1.0 | Automatický resampler: sám chytá údery, tóny a hlasitá místa a sází je zpátky jako rytmus, melodii nebo ozvěny. |
-| **Trellis** | TUNER | 0.1.0 | Spektrální ladička: každá složka zvuku vyleze na nejbližší tón stupnice, akordu nebo alikvotní řady. I bicí a šum hrají v tónině. |
+| **Trellis** | TUNER | 0.2.0 | Spektrální ladička: každá složka zvuku vyleze na nejbližší tón stupnice, akordu nebo alikvotní řady. I bicí a šum hrají v tónině. |
 | **Dormancy** | TIME | 0.1.0 | Zimní spánek pro zvuk: roztažení až 1000×, zastavení pásky a zpomalení každého taktu v tempu. |
 
 Pluginy se instalují do `~/Library/Audio/Plug-Ins/VST3`. Výrobce v Cubase: **Erik**.
