@@ -36,6 +36,6 @@ Pak v Cubase dej **Studio → VST Plug-in Manager → Rescan**, případně Cuba
 | **SeedBank** | RESAMPLER | 0.1.0 | Automatický resampler: sám chytá údery, tóny a hlasitá místa a sází je zpátky jako rytmus, melodii nebo ozvěny. |
 | **Trellis** | TUNER | 0.3.0 | Spektrální ladička: každá složka zvuku vyleze na nejbližší tón stupnice, akordu nebo alikvotní řady. I bicí a šum hrají v tónině. |
 | **Dormancy** | TIME | 0.1.0 | Zimní spánek pro zvuk: roztažení až 1000×, zastavení pásky a zpomalení každého taktu v tempu. |
-| **Unfurl** | REVERSE REVERB | 0.1.0 | Reverse reverb bez exportování: převrácený reverb nasaje do slova a skončí přesně na jeho začátku. Plugin si sám najde začátky frází. |
+| **Unfurl** | REVERSE REVERB | 0.2.0 | Reverse reverb na jedno slovo: CATCH, zahraj slovo a převrácený reverb pak v písni sám nasaje do slova. Nebo ho přetáhni do projektu jako audio. |
 
 Pluginy se instalují do `~/Library/Audio/Plug-Ins/VST3`. Výrobce v Cubase: **Erik**.
